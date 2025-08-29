@@ -1,0 +1,818 @@
+Loaded 7 existing IDs from amsterdam_trees.csv
+Retrieving data for 4690000
+Request error for 4690000: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690001
+Request error for 4690001: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690001&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a8ce0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690002
+Request error for 4690002: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690002&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a9310>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690003
+Request error for 4690003: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690003&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a9af0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690004
+Request error for 4690004: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690004&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099aa2d0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690005
+Request error for 4690005: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690005&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099aaab0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690006
+Request error for 4690006: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690006&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x797109c80f50>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690007
+Request error for 4690007: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690007&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a9b50>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690008
+Request error for 4690008: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690008&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a9850>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690009
+Request error for 4690009: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690009&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a8fb0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690010
+Request error for 4690010: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690010&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690011
+Request error for 4690011: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690011&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a8200>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690012
+Request error for 4690012: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690012&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690013
+Request error for 4690013: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690013&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a8350>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690014
+Request error for 4690014: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690014&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099ab0e0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690015
+Request error for 4690015: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690015&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099ab1d0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690016
+Request error for 4690016: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690016&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a95b0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690017
+Request error for 4690017: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690017&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a9640>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690018
+Request error for 4690018: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690019
+Request error for 4690019: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690019&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690020
+Request error for 4690020: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690020&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690021
+Request error for 4690021: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690021&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c8680>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690022
+Request error for 4690022: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690022&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099aae40>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690023
+Request error for 4690023: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690023&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099aa7e0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)Request error for 4690032: HTTPSRequest error for 4690024: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690024&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9880>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690025
+Request error for 4690025: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690025&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab530>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690026
+Request error for 4690026: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690026&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099abe60>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690027
+Request error for 4690027: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690027&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c87a0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690028
+Request error for 4690028: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690028&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099abf20>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690029
+Request error for 4690029: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690029&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099abaa0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690030
+Request error for 4690030: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690030&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9070>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690031
+Request error for 4690031: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690031&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9850>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690032
+Request error for 4690032: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690032&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099aac60>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690033
+Request error for 4690033: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690033&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c8ad0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690034
+Request error for 4690034: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690034&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690035
+Request error for 4690035: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690035&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690036
+Request error for 4690036: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690036&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690037
+Request error for 4690037: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690037&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099aa240>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690038
+Request error for 4690038: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690038&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690039
+Request error for 4690039: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690039&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690040
+Request error for 4690040: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690040&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690041
+Request error for 4690041: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690041&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690042
+Request error for 4690042: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690042&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a96a0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690043
+Request error for 4690043: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690043&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a81a0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690044
+Request error for 4690044: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690044&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099abec0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690045
+Request error for 4690045: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690045&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690046
+Request error for 4690046: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690046&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099c8ce0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690047
+Request error for 4690047: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690047&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c8440>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Request error for 4690060: HTTPSConnectionPool(host='bomen.amsterdam.Request error for 4690048: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690048&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab4d0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690049
+Request error for 4690049: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690050
+Request error for 4690050: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690051
+Request error for 4690051: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690052
+Request error for 4690052: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690052&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690053
+Request error for 4690053: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690053&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690054
+Request error for 4690054: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690054&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690055
+Request error for 4690055: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690056
+Request error for 4690056: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690057
+Request error for 4690057: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690058
+Request error for 4690058: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690058&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690059
+Request error for 4690059: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690059&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690060
+Request error for 4690060: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690060&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690061
+Request error for 4690061: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690062
+Request error for 4690062: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690063
+Request error for 4690063: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690064
+Request error for 4690064: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690064&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690065
+Request error for 4690065: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690065&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690066
+Request error for 4690066: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690066&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690067
+Request error for 4690067: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690067&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690068
+Request error for 4690068: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690068&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690069
+Request error for 4690069: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690069&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690070
+Request error for 4690070: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690070&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690071
+Request error for 4690071: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690071&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099ab410>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690072
+Request error for 4690072: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690072&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab1d0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690073
+Request error for 4690073: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690073&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a93a0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690074
+Request error for 4690074: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690075
+Request error for 4690075: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690076
+Request error for 4690076: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690076&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690077
+Request error for 4690077: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690077&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690078
+Request error for 4690078: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690078&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690079
+Request error for 4690079: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690079&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690080
+Request error for 4690080: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690080&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690081
+Request error for 4690081: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690081&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099aa540>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690082
+Request error for 4690082: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690082&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab1a0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690083
+Request error for 4690083: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690084
+Request error for 4690084: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690085
+Request error for 4690085: 502 Server Error: Bad GatewaRequest error for 4690095: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=Request error for 4690086: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690086&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690087
+Request error for 4690087: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690087&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690088
+Request error for 4690088: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690088&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690089
+Request error for 4690089: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690089&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690090
+Request error for 4690090: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690090&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690091
+Request error for 4690091: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690091&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690092
+Request error for 4690092: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690092&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690093
+Request error for 4690093: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690093&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690094
+Request error for 4690094: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690094&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c8fb0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690095
+Request error for 4690095: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690095&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ca570>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690096
+Request error for 4690096: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690096&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690097
+Request error for 4690097: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690097&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690098
+Request error for 4690098: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690098&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9760>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690099
+Request error for 4690099: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690100
+Request error for 4690100: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690101
+Request error for 4690101: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690102
+Request error for 4690102: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690103
+Request error for 4690103: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690103&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9280>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690104
+Request error for 4690104: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690104&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099aa720>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690105
+Request error for 4690105: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690105&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9340>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690106
+Request error for 4690106: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690106&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9790>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690107
+Request error for 4690107: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690107&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690108
+Request error for 4690108: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690108&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690109
+Request error for 4690109: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690109&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690110
+Request error for 4690110: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690110&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690111
+Request error for 4690111: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690111&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690112
+Request error for 4690112: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690112&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690113
+Request error for 4690113: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690113&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690114
+Request error for 4690114: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690114&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690115
+Request error for 4690115: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690115&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690116
+Request error for 4690116: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690116&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690117
+Request error for 4690117: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690117&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099ca450>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690118
+Request error for 4690118: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690118&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099cae10>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 469011
+RRequest error for 4690119: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690119&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099cb770>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690120
+Request error for 4690120: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690121
+Request error for 4690121: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690122
+Request error for 4690122: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690123
+Request error for 4690123: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690123&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690124
+Request error for 4690124: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690124&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690125
+Request error for 4690125: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690125&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690126
+Request error for 4690126: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690126&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690127
+Request error for 4690127: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690127&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690128
+Request error for 4690128: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690128&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099cac90>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690129
+Request error for 4690129: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690129&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c93a0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690130
+Request error for 4690130: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690130&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690131
+Request error for 4690131: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690131&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a8290>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690132
+Request error for 4690132: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690132&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690133
+Request error for 4690133: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690133&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690134
+Request error for 4690134: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690134&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690135
+Request error for 4690135: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690135&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690136
+Request error for 4690136: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690136&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690137
+Request error for 4690137: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690137&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690138
+Request error for 4690138: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690138&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690139
+Request error for 4690139: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690139&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690140
+Request error for 4690140: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690140&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab0b0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690141
+Request error for 4690141: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690141&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9490>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690142
+Request error for 4690142: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690142&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690143
+Request error for 4690143: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690143&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x797109a74b60>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690144
+Request error for 4690144: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690144&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690145
+Request error for 4690145: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690145&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690146
+Request error for 4690146: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690146&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690147
+Request error for 4690147: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690147&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ca930>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690148
+Request error for 4690148: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690148&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099cb1d0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690149
+Request error for 4690149: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690149&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x797109aeac00>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690150
+Request error for 4690150: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690150&filters=&_routes=routes%2Ffeatures
+Retrieving data forRetrievinRequest error for 4690151: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690151&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab140>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690152
+Request error for 4690152: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690153
+Request error for 4690153: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690154
+Request error for 4690154: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690155
+Request error for 4690155: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690155&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690156
+Request error for 4690156: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690156&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690157
+Request error for 4690157: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690157&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690158
+Request error for 4690158: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690158&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690159
+Request error for 4690159: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690159&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690160
+Request error for 4690160: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690160&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690161
+Request error for 4690161: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690161&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099c8470>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690162
+Request error for 4690162: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690162&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab170>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690163
+Request error for 4690163: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690163&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690164
+Request error for 4690164: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690164&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690165
+Request error for 4690165: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690165&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690166
+Request error for 4690166: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690166&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690167
+Request error for 4690167: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690167&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690168
+Request error for 4690168: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690168&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690169
+Request error for 4690169: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690169&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690170
+Request error for 4690170: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690170&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099aa780>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690171
+Request error for 4690171: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690171&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab0e0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690172
+Request error for 4690172: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690172&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79710a74afc0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690173
+Request error for 4690173: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690173&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099cae40>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690174
+Request error for 4690174: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690174&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690175
+Request error for 4690175: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690175&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690176
+Request error for 4690176: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690176&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690177
+Request error for 4690177: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690177&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690178
+Request error for 4690178: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690178&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690179
+Request error for 4690179: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690179&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690180
+Request error for 4690180: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690180&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690181
+Request error for 4690181: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690181&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690182
+Request error for 4690182: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690182&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690183
+Request error for 4690183: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690183&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c8a40>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690184
+Request error for 4690184: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690184&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79710a586ae0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690185
+Request error for 4690185: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690185&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690186
+Request error for 4690186: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690186&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690187
+Request error for 4690187: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690187&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690188
+Request error for 4690188: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690188&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690189
+Request error for 4690189: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690189&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690190
+Request error for 4690190: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690190&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690191
+Request error for 4690191: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690191&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690192
+Request error for 4690192: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690192&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a9fd0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690193
+Request error for 4690193: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690193&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690194
+Request error for 4690194: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690194&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690195
+Request error for 4690195: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690195&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690196
+Request error for 4690196: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690196&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a81d0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690197
+Request error for 4690197: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690198
+Request error for 4690198: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690199
+Request error for 4690199: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690200
+Request error for 4690200: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690200&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x797109bfe660>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690201
+Request error for 4690201: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690201&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690202
+Request error for 4690202: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690202&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690203
+Request error for 4690203: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690203&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690204
+Request error for 4690204: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690204&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690205
+Request error for 4690205: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690206
+Request error for 4690206: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690206&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9370>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690207
+Request error for 4690207: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690207&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab200>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690208
+Request error for 4690208: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690208&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690209
+Request error for 4690209: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690209&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690210
+Request error for 4690210: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690210&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690211
+Request error for 4690211: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690211&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690212
+Request error for 4690212: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690212&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690213
+Request error for 4690213: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690213&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099c9d00>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690214
+Request error for 4690214: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690214&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690215
+Request error for 4690215: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690215&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690216
+Request error for 4690216: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690216&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690217
+Request error for 4690217: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690217&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690218
+Request error for 4690218: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690218&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690219
+Request error for 4690219: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690219&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c8e00>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690220
+Request error for 4690220: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690220&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79710a586a20>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690221
+Request error for 4690221: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690221&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab380>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690222
+Request error for 4690222: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690222&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099aa630>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690223
+Request error for 4690223: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690223&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab6e0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690224
+Request error for 4690224: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690224&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x797109947260>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690225
+Request error for 4690225: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690225&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c96d0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690226
+Request error for 4690226: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690226&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c9fd0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690227
+Request error for 4690227: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690227&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099abce0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690228
+Request error for 4690228: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690228&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9130>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690229
+Request error for 4690229: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690229&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a99a0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690230
+Request error for 4690230: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690231
+Request error for 4690231: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690232
+Request error for 4690232: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690233
+Request error for 4690233: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690233&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690234
+Request error for 4690234: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690234&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690235
+Request error for 4690235: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690235&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690236
+Request error for 4690236: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690236&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690237
+Request error for 4690237: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690237&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690238
+Request error for 4690238: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690238&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690239
+Request error for 4690239: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690239&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690240
+Request error for 4690240: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690241
+Request error for 4690241: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690241&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099aaa20>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690242
+Request error for 4690242: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690242&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9010>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690243
+Request error for 4690243: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690243&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690244
+Request error for 4690244: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690244&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690245
+Request error for 4690245: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690245&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099c8e30>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690246
+Request error for 4690246: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690246&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690247
+Request error for 4690247: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690247&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c8e00>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690248
+Request error for 4690248: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690248&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690249
+Request error for 4690249: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690249&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690250
+Request error for 4690250: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690250&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690251
+Request error for 4690251: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690251&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099cbaa0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690252
+Request error for 4690252: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690252&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9430>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690253
+Request error for 4690253: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690253&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099aac30>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690254
+Request error for 4690254: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690254&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690255
+Request error for 4690255: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690255&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690256
+Request error for 4690256: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690256&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690257
+Request error for 4690257: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690257&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690258
+Request error for 4690258: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690258&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690259
+Request error for 4690259: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690259&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a9790>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690260
+Request error for 4690260: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690260&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c9af0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690261
+Request error for 4690261: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690261&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690262
+Request error for 4690262: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690262&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690263
+Request error for 4690263: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690263&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690264
+Request error for 4690264: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690265
+Request error for 4690265: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690266
+Request error for 4690266: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690267
+Request error for 4690267: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690267&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690268
+Request error for 4690268: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690268&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690269
+Request error for 4690269: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690270
+Request error for 4690270: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690271
+Request error for 4690271: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690272
+Request error for 4690272: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690272&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690273
+Request error for 4690273: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690273&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690274
+Request error for 4690274: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690274&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690275
+Request error for 4690275: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690275&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690276
+Request error for 4690276: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690277
+Request error for 4690277: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690278
+Request error for 4690278: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690279
+Request error for 4690279: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690279&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690280
+Request error for 4690280: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690280&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690281
+Request error for 4690281: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690281&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690282
+Request error for 4690282: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690282&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690283
+Request error for 4690283: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690283&filters=&_routes=routeRequest error for 4690268: HTTPSConnectioRequest error for 4690284: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690284&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690285
+Request error for 4690285: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690285&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099a96a0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690286
+Request error for 4690286: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690286&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a8350>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690287
+Request error for 4690287: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690287&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x797109c80a10>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690288
+Request error for 4690288: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690289
+Request error for 4690289: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690290
+Request error for 4690290: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690291
+Request error for 4690291: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690291&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a80b0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690292
+Request error for 4690292: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690292&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690293
+Request error for 4690293: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690293&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690294
+Request error for 4690294: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690294&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690295
+Request error for 4690295: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690295&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690296
+Request error for 4690296: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690296&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690297
+Request error for 4690297: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690298
+Request error for 4690298: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690299
+Request error for 4690299: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690300
+Request error for 4690300: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690301
+Request error for 4690301: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690301&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690302
+Request error for 4690302: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690302&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690303
+Request error for 4690303: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690303&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690304
+Request error for 4690304: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690304&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690305
+Request error for 4690305: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690305&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690306
+Request error for 4690306: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690306&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099aae40>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690307
+Request error for 4690307: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690307&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099aa060>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690308
+Request error for 4690308: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690308&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690309
+Request error for 4690309: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690309&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690310
+Request error for 4690310: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690311
+Request error for 4690311: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690312
+Request error for 4690312: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690313
+Request error for 4690313: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690313&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690314
+Request error for 4690314: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690314&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690315
+Request error for 4690315: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690315&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690316
+Request error for 4690316: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690316&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690317
+Request error for 4690317: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690317&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690318
+Request error for 4690318: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690318&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690319
+Request error for 4690319: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690319&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690320
+Request error for 4690320: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690320&filters=&_routes=routes%2Ffeatures
+RetrievingRequest error for Request error for 4690321: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690321&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690322
+Request error for 4690322: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690322&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690323
+Request error for 4690323: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690323&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690324
+Request error for 4690324: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690324&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690325
+Request error for 4690325: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690325&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690326
+Request error for 4690326: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690326&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690327
+Request error for 4690327: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690327&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690328
+Request error for 4690328: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690328&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690329
+Request error for 4690329: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690329&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9ca0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690330
+Request error for 4690330: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690330&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ab920>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690331
+Request error for 4690331: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690331&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099cab40>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690332
+Request error for 4690332: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690332&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ca300>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690333
+Request error for 4690333: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690333&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099ecda0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690334
+Request error for 4690334: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690334&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x797109a9acf0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690335
+Request error for 4690335: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690335&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099c9460>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690336
+Request error for 4690336: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690336&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9790>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690337
+Request error for 4690337: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690337&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7971099a9f70>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690338
+Request error for 4690338: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690338&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79710a80b320>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690339
+Request error for 4690339: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690340
+Request error for 4690340: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690341
+Request error for 4690341: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690342
+Request error for 4690342: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690343
+Request error for 4690343: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690343&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690344
+Request error for 4690344: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690344&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690345
+Request error for 4690345: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690345&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690346
+Request error for 4690346: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690346&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690347
+Request error for 4690347: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690347&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690348
+Request error for 4690348: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690348&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690349
+Request error for 4690349: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690349&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690350
+Request error for 4690350: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690351
+Request error for 4690351: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690351&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7971099c9460>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690352
+Pool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690338&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e4193200>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690339
+Request error for 4690339: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690339&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690340
+Request error for 4690340: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690340&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690341
+Request error for 4690341: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690341&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690342
+Request error for 4690342: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690342&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690343
+Request error for 4690343: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690343&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690344
+Request error for 4690344: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690344&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690345
+Request error for 4690345: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690345&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690346
+Request error for 4690346: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690346&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e4193290>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690347
+Request error for 4690347: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690347&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b5b80>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690348
+Request error for 4690348: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690348&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b7b90>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690349
+Request error for 4690349: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690349&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b7b30>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690350
+Request error for 4690350: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690350&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e4191cd0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690351
+Request error for 4690351: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690351&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e4190fe0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690352
+Request error for 4690352: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690352&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e4c476e0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690353
+Request error for 4690353: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690353&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b7e60>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690354
+Request error for 4690354: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690354&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b51f0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690355
+Request error for 4690355: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690355&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b6d50>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690356
+Request error for 4690356: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690356&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e4d7c1a0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690357
+Request error for 4690357: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690358
+Request error for 4690358: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690359
+Request error for 4690359: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690360
+Request error for 4690360: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690361
+Request error for 4690361: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690361&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690362
+Request error for 4690362: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Read timed out. (read timeout=10)
+Retrieving data for 4690363
+Request error for 4690363: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690363&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690364
+Request error for 4690364: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690364&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690365
+Request error for 4690365: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690365&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690366
+Request error for 4690366: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690366&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690367
+Request error for 4690367: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690367&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690368
+Request error for 4690368: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690368&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690369
+Request error for 4690369: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690369&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690370
+Request error for 4690370: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690370&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690371
+Request error for 4690371: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690371&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690372
+Request error for 4690372: 503 Server Error: Service Temporarily Unavailable for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690372&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690373
+Request error for 4690373: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690373&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e4190470>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690374
+Request error for 4690374: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690374&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e4192240>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690375
+Request error for 4690375: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690375&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690376
+Request error for 4690376: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690376&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690377
+Request error for 4690377: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690377&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7179e41b6ed0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690378
+Request error for 4690378: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690378&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690379
+Request error for 4690379: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690379&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690380
+Request error for 4690380: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690380&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7179e41b43e0>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690381
+Request error for 4690381: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690381&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b59a0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690382
+Request error for 4690382: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690382&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690383
+Request error for 4690383: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690383&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690384
+Request error for 4690384: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690384&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690385
+Request error for 4690385: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690385&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690386
+Request error for 4690386: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690386&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b5fa0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690387
+Request error for 4690387: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690387&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690388
+Request error for 4690388: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690388&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690389
+Request error for 4690389: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690389&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690390
+Request error for 4690390: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690390&filters=&_routes=routes%2Ffeatures (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7179e4191a30>, 'Connection to bomen.amsterdam.nl timed out. (connect timeout=10)'))
+Retrieving data for 4690391
+Request error for 4690391: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690391&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e4193b30>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690392
+Request error for 4690392: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690392&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b4bf0>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690393
+Request error for 4690393: HTTPSConnectionPool(host='bomen.amsterdam.nl', port=443): Max retries exceeded with url: /features.data?type=tree&id=4690393&filters=&_routes=routes%2Ffeatures (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7179e41b7b30>: Failed to resolve 'bomen.amsterdam.nl' ([Errno -3] Temporary failure in name resolution)"))
+Retrieving data for 4690394
+Request error for 4690394: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690394&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690395
+Request error for 4690395: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690395&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690396
+Request error for 4690396: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690396&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690397
+Request error for 4690397: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690397&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690398
+Request error for 4690398: 502 Server Error: Bad Gateway for url: https://bomen.amsterdam.nl/features.data?type=tree&id=4690398&filters=&_routes=routes%2Ffeatures
+Retrieving data for 4690399

@@ -2,8 +2,8 @@
 set -euo pipefail
 
 # --- Settings ---
-WORKERS=100
-GLOBAL_START=0
+WORKERS=20
+GLOBAL_START=1000000
 GLOBAL_END=10000000       # exclusive
 PYTHON_BIN=python3        # or path to your venv's python
 

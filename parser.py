@@ -100,6 +100,10 @@ def parse_tree(tree_id: int):
         try:
             lon = data[data.index('coordinates') + 2]
             lat = data[data.index('coordinates') + 3]
+            if lon  > lat: 
+                lon_ = lon
+                lon = lat
+                lat = lon_
         except Exception:
             lat, lon = None, None
 
