@@ -14,7 +14,7 @@ RELOAD_EXISTING_EVERY = 500   # refresh in-memory IDs every N iterations to noti
 
 FIELDNAMES = [
     "id", "latitude","longitude", "soortnaam", "soortnaamtop", "jaarvanaanleg",
-    "typeobject", "typeeigenaarplus", "typebeheerderplus", "boomhoogteklasseactueel"
+    "typeobject", "typeeigenaarplus", "typebeheerderplus", "stamdiameterklasse", "boomhoogteklasseactueel"
 ]
 
 # ------------ Cross-platform file locking ------------
@@ -98,8 +98,8 @@ def parse_tree(tree_id: int):
                 return None
 
         try:
-            lat = data[data.index('coordinates') + 2]
-            lon = data[data.index('coordinates') + 3]
+            lon = data[data.index('coordinates') + 2]
+            lat = data[data.index('coordinates') + 3]
         except Exception:
             lat, lon = None, None
 
@@ -113,6 +113,7 @@ def parse_tree(tree_id: int):
             "typeobject": str(find_value('typeobject')),
             "typeeigenaarplus": str(find_value('typeeigenaarplus')),
             "typebeheerderplus": str(find_value('typebeheerderplus')),
+            "stamdiameterklasse": str(find_value('stamdiameterklasse')),
             "boomhoogteklasseactueel": str(find_value('boomhoogteklasseactueel')),
         }
 
